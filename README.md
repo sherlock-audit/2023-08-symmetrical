@@ -87,6 +87,9 @@ https://docs.symm.io/protocol-overview/general-information
 https://docs.symm.io/building-on-symm-io/technical-documentation
 ___
 
+### Additional context into the update contest:
+
+___
 
 
 # Audit scope
